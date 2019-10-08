@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
 
-  <book category="cooking">
-    <title lang="en">Everyday Italian</title>
-    <author>Giada De Laurentiis</author>
-    <year>2005</year>
-    <price>30.00</price>
+  <book category="fantasy">
+    <title lang="en">El imperio Final</title>
+    <author>Brandon Sanderson</author>
+    <year>2006</year>
+    <price>19.99</price>
   </book>
 
   <book category="children">
@@ -15,14 +15,14 @@
     <price>29.99</price>
   </book>
 
-  <book category="web">
-    <title lang="en">XQuery Kick Start</title>
-    <author>James McGovern</author>
+  <book category="tech">
+    <title lang="en">Robot Visions</title>
+    <author> Isaac Asimov</author>
     <author>Per Bothner</author>
     <author>Kurt Cagle</author>
     <author>James Linn</author>
     <author>Vaidyanathan Nagarajan</author>
-    <year>2003</year>
+    <year>1990</year>
     <price>49.99</price>
   </book>
 
