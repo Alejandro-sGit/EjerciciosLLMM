@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
 
-  <book category="fantasy">
-    <title lang="en">El imperio Final</title>
+  <book theme="fantasy">
+    <title lang="ES">El imperio Final</title>
     <author>Brandon Sanderson</author>
     <year>2006</year>
     <price>19.99</price>
   </book>
 
-  <book category="tech">
-    <title lang="en">Robot Visions</title>
+  <book theme="tech">
+    <title lang="EN">Robot Visions</title>
     <author> Isaac Asimov</author>
-    <author>Per Bothner</author>
-    <author>Kurt Cagle</author>
-    <author>James Linn</author>
-    <author>Vaidyanathan Nagarajan</author>
     <year>1990</year>
     <price>49.99</price>
   </book>
