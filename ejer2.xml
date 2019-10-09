@@ -2,14 +2,14 @@
 <bookstore>
 
   <book theme="fantasy">
-    <title lang="ES">El imperio Final</title>
+    <title lang="es">El imperio Final</title>
     <author>Brandon Sanderson</author>
     <year>2006</year>
     <price>19.99</price>
   </book>
 
   <book theme="tech">
-    <title lang="EN">Robot Visions</title>
+    <title lang="en">Robot Visions</title>
     <author> Isaac Asimov</author>
     <year>1990</year>
     <price>49.99</price>
