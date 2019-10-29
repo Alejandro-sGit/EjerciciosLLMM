@@ -1,4 +1,4 @@
-# carpeta de actividades y recursos del tema 2
+# Carpeta de Atividades y Recursos del Tema 2
 <img src="html5.png" aling="center" alt="html_logo">
   
   
