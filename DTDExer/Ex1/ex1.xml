@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-!DOCTYPE entry [
+!DOCTYPE address_Book [
 	<!ELEMENT address_Book (name, home, telf+, e-mail, age, marital_status)>
 	<!ELEMENT name (#PCDATA)>
 	<!ELEMENT home (#PCDATA)>
@@ -23,6 +23,5 @@
 		<e-mail>carlitoS@gmail.comº</e-mail>
 		<age>21</age>
 		<marital_status>S</marital_status>
-	</entry>
 </address_Book>
 
