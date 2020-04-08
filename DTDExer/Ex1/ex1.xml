@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-!DOCTYPE address_Book [
+<!DOCTYPE address_Book [
 	<!ELEMENT address_Book (name, home, telf+, e-mail, age, marital_status)>
 	<!ELEMENT name (#PCDATA)>
 	<!ELEMENT home (#PCDATA)>
@@ -7,7 +7,7 @@
 	<!ELEMENT e-mail (#PCDATA)>
 	<!ELEMENT age (#PCDATA)>
 	<!ELEMENT marital_status (C |S |V |D)>
-]
+]>
 <address_Book no="1">
 		<name>Alberto</name>
 		<home>C/litoral point Nº31</home>
