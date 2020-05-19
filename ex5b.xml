@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDList>
+<CD serial="B6B41B" disc-length="36:55">
+<track no="1">
+<record>0001</record>
+<album>Nevermind</album>
+<artist>Nirvana</artist>
+<song>Smells Like teen Spirit</song>
+<publishing_year>1991</publishing_year>
+<category>pop</category>
+</track>
+<!-- This CD has more tracks than in this file -->
+</CD>
+<CD serial="B&B42B" disc-length="24:32">
+<track no="1">
+<record>0001</record>
+<album>Bleach</album>
+<artist>Nirvana</artist>
+<song>Blew</song>
+<publishing_year>1988</publishing_year>
+<category>sub pop; grunge</category>
+</track>
+<!-- This CD has more tracks than in this file -->
+</CD>
+</CDList>

@@ -1,0 +1,19 @@
+Exercise 1 
+-questions:
+	a.How should an element with the name test element and the content "This is our first element!" look?
+		<test_element>This is our first element</test_element>
+		
+	b.Please show (in xml-syntax) the hierarchy of the element book with the subelements chapters and author.
+	author has the further subelements name and address.
+		<book>
+			<chapters></chapters>
+			<author>
+				<name></name>
+				<address></address>
+			</author>
+		</book>
+
+	c.How does an element with the name entry which has got 2 attributes: 
+	no with the value 24 and date with the value 27.10.2004 look?
+	<entry no="24" date="27.10.2004">
+	</entry>
